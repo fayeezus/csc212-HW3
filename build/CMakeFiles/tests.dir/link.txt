@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/tests.dir/unit_tests.cpp.o  -o tests libnode.a lib/libgtest.a libllist.a lib/libgtest.a 

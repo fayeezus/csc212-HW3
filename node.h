@@ -156,8 +156,15 @@ namespace nodespace
 		
 			//implement the assignment operator
 			nodespace::node& operator = (value_type value){
-				this->data_field = value;
-			}	
+				this->set_data(value);
+                node val1 = node(this->data(), this->link());
+                node& val=val1;
+                return val;
+			}
+            nodespace::node& operator = (node* A){
+            this->set_data(A->data());
+            this->set_link(A);
+            }
 
 			private:
 			value_type data_field;

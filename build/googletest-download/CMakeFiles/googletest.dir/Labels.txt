@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/fayeezus/csc212-HW3/build/googletest-download/CMakeFiles/googletest
+/Users/fayeezus/csc212-HW3/build/googletest-download/CMakeFiles/googletest.rule
+/Users/fayeezus/csc212-HW3/build/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/fayeezus/csc212-HW3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/fayeezus/csc212-HW3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/fayeezus/csc212-HW3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/fayeezus/csc212-HW3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/Users/fayeezus/csc212-HW3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/fayeezus/csc212-HW3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/fayeezus/csc212-HW3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/fayeezus/csc212-HW3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule

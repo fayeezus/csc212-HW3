@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fayeezus/csc212-HW3/llist.cpp
+llist.h
+/Users/fayeezus/csc212-HW3/llist.h
+
+/Users/fayeezus/csc212-HW3/llist.h
+cstdlib
+-
+list
+-
+tuple
+-
+iostream
+-
+node.h
+/Users/fayeezus/csc212-HW3/node.h
+
+/Users/fayeezus/csc212-HW3/node.h
+cstdlib
+-
+map
+-
+iostream
+-
+
